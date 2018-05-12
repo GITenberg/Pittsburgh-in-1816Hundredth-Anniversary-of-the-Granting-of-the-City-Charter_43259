@@ -1,0 +1,29 @@
+_repo: Pittsburgh-in-1816Hundredth-Anniversary-of-the-Granting-of-the-City-Charter_43259
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Carnegie Library of Pittsburgh
+    aliases:
+    - Pittsburgh. Carnegie Library
+    - Pittsburgh (Pa.). Carnegie Library
+    gutenberg_agent_id: '7956'
+    url: http://www.gutenberg.org/2009/agents/7956
+covers:
+- cover_type: archival
+  image_path: 43259-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43259'
+  lccn: '16022669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Pittsburgh (Pa.) -- History'
+title: "Pittsburgh in 1816\r\nCompiled by the Carnegie Library of Pittsburgh on the\
+  \ One Hundredth Anniversary of the Granting of the City Charter"
+url: http://www.gutenberg.org/ebooks/43259
