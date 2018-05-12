@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 43259-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43259#Pittsburgh-in-1816Hundredth-Anniversary-of-the-Granting-of-the-City-Charter
 gutenberg_issued: '2013-07-20'
 gutenberg_type: Text
 identifiers:
